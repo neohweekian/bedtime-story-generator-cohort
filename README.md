@@ -121,6 +121,7 @@ The walk-through is in **[`docs/publish_your_work.md`](docs/publish_your_work.md
 
 ## Where to get help
 
+- **If the per-module rhythm feels uncertain or Module 7 catches you off-guard:** [`docs/how_a_module_works.md`](docs/how_a_module_works.md) — the per-module rhythm map, including the conversion-course overlay (what's removed + what's added) and an explicit *"Module 7 breaks the rhythm"* section preparing you for the two-terminal local dev + 5-phase deploy procedure.
 - **In the live session:** ask Gemini first using a module's *"Try asking Gemini"* prompt. If you're still stuck after 10 minutes, post a screenshot of the failing command in the cohort's async help channel and stay on the call.
 - **Between sessions:** async help channel + your instructor's office hours.
 - **If `verify_setup.sh` fails:** the script prints the exact one-line fix on the failing line. Paste it, re-run.
